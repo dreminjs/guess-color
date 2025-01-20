@@ -153,7 +153,7 @@ export const ExampleGame = () => {
   };
 
   return (
-    <div className="flex flex-col items-center mt-[100px]">
+    <div className="flex flex-col items-center">
       <p className="max-w-[400px] text-center mb-5 text-2xl">
         {' '}
         Количество правильных ответов:{' '}
